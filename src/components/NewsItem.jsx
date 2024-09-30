@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export class NewsItem extends Component {
-  render() {
-    const { title, description, imageUrl, newsUrl,author,date ,source} = this.props;
+const NewsItem = ({ title, description, imageUrl, newsUrl,author,date ,source}) => {
+ 
+   
     return (
       <div>
         <div className="card h-100">
@@ -10,15 +10,11 @@ export class NewsItem extends Component {
         <span className="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left:'90%',zIndex:'1'}}>
           {source}
         </span>
-          <img
-            src={
-              !imageUrl
-                ? "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-24t083513z-2099667105-rc2w6aavvfw4-rtrmadp-3-israel-palestinians-lebanon.JPG?c=16x9&q=w_800,c_fill"
-                : imageUrl
-            }
-            className="card-img-top"
-            alt="news"
-          />
+
+          <img src={!imageUrl?
+          "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-24t083513z-2099667105-rc2w6aavvfw4-rtrmadp-3-israel-palestinians-lebanon.JPG?c=16x9&q=w_800,c_fill": imageUrl }
+            className="card-img-top" alt="news"/>
+
           <div className="card-body">
             <h5 className="card-title">{title}...</h5>
             <p className="card-text">{description}...</p>
@@ -30,7 +26,7 @@ export class NewsItem extends Component {
         </div>
       </div>
     );
-  }
+  
 }
 
 export default NewsItem;
