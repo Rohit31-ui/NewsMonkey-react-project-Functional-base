@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Maker of suicide pod plans to launch in Switzerland",
+        "description": "Those offering end-of-life services and legal experts are not convinced.",
+        "url": "https://www.bbc.co.uk/news/technology-59577162",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C333/production/_122017994_sarco2.png",
+        "publishedAt": "2024-09-24T17:22:21.4736428Z",
+        "content": "The current method used in Switzerland is to provide the person with a series of liquids that, if ingested, will end the person's life.\r\nBy contrast, the pod - which can be placed anywhere - is flood… [+1583 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Boeing union hits out over 'final' 30% pay rise offer",
+        "description": "More than 30,000 Boeing workers went on strike earlier this month after rejecting a 25% pay rise offer.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg92528y51o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3aa/live/bb07a730-7a09-11ef-970d-cba90a04d0a0.jpg",
+        "publishedAt": "2024-09-24T17:22:20.3333023Z",
+        "content": "Boeing workers went on strike from 13 September after rejecting a new contract deal, which included a 25% pay rise over four years.\r\nThe union had initially aimed for a number of improvements to work… [+857 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Arrests after Sarco 'suicide pod' used in Switzerland",
+        "description": "Police have arrested several people after what is thought to be the first of the controversial device.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8144v9pveo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c7e4/live/4f80b570-7a67-11ef-b79d-b95d1c4d53f8.jpg",
+        "publishedAt": "2024-09-24T14:07:17.1521909Z",
+        "content": "Warning: Contains distressing content \r\nThe company behind the controversial pod says it can be solely operated by the person seeking to end their own life, without medical supervision. \r\nPolice said… [+1274 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "New 'ghost shark' discovered in New Zealand waters",
+        "description": "The elusive deep-sea fish, closely related to sharks and rays, is incredibly hard to spot or study.",
+        "url": "https://www.bbc.co.uk/news/articles/c89lgy9njxwo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4534/live/b6446740-7a60-11ef-b9fe-390153503232.jpg",
+        "publishedAt": "2024-09-24T13:37:23.7779624Z",
+        "content": "Dr Finucci and other researchers from New Zealand's National Institute of Water and Atmospheric Research (Niwa) found the creature in an area of ocean floor known as Chatham Rise, which lies to the e… [+936 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Afghanistan: Cats have more freedom than women, says Meryl Streep",
+        "description": "A cat may \"feel the sun on her face\" in a park but girls do not have such freedoms under the Taliban, she said.",
+        "url": "https://www.bbc.co.uk/news/articles/cr54d3qd5r7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b67/live/33b08960-7a4e-11ef-b9fe-390153503232.jpg",
+        "publishedAt": "2024-09-24T12:37:17.3554142Z",
+        "content": "Among other things, these rules state that women's voices can no longer be heard in public and that they are not allowed to look directly at men they are not related to by blood or marriage.\r\nThe mea… [+1339 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Michael Kovrig: Canadian alleges 'psychological torture' in Chinese jail",
+        "description": "Michael Kovrig, whose arrest kicked off a diplomatic spat, says he was held in solitary confinement for months.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g42953qm0o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e61d/live/0fdb8cf0-7a4a-11ef-b282-4535eb84fe4b.jpg",
+        "publishedAt": "2024-09-24T11:52:19.9803609Z",
+        "content": "The Canadian government had at that time detained Ms Meng, the chief financial officer of Chinese tech giant Huawei, on US fraud charges.\r\nThe \"two Michaels\" were only freed nearly three years later,… [+1800 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Russia-Ukraine: War closer to the end than some think, Zelensky says",
+        "description": "The Ukrainian president says his country has to be \"very strong\" in order to push Russia to the negotiating table.",
+        "url": "https://www.bbc.co.uk/news/articles/cr7582l4015o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebe2/live/586c33f0-7a60-11ef-b9fe-390153503232.jpg",
+        "publishedAt": "2024-09-24T11:22:23.5742292Z",
+        "content": "On Tuesday, Kremlin spokesman Dmitry Peskov said Russia was being cautious about media reports of a Ukrainian plan and added that the conflict would only end when Russia's aims were achieved.\r\nZelens… [+2030 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Murdoch family battle over media empire quietly unfolds in Reno",
+        "description": "A succession drama has played out in a Nevada court - and the outcome is likely to be withheld from the public.",
+        "url": "https://www.bbc.co.uk/news/articles/c7v6z4ezr00o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1182/live/520c8cb0-79f4-11ef-aee3-eb31876f4160.jpg",
+        "publishedAt": "2024-09-24T10:07:23.5802335Z",
+        "content": "In trying to protect their privacy, the Murdochs have had their security team scope out which entrance of the courthouse has the fewest reporters waiting outside.\r\nThe family does not want any potent… [+1680 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US election polls tracker 2024: Who is ahead - Harris or Trump?",
+        "description": "An in-depth look at the polls and what they can and can’t tell us about who will win the White House.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4x71znwxdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e457/live/d48d2d60-6f55-11ef-8c1a-df523ba43a9a.png",
+        "publishedAt": "2024-09-24T07:37:18.637138Z",
+        "content": "The figures we have used in the graphics above are averages created by polling analysis website 538, external, which is part of American news network ABC News. To create them, 538 collect the data fr… [+430 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Brook Cheuvront: American hiker found dead on South Africa's mountain",
+        "description": "South African authorities say they are investigating the death of the 20-year-old American student.",
+        "url": "https://www.bbc.co.uk/news/articles/cg4q1l0l36po",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1048/live/57c44a10-7a32-11ef-bc96-5f6ef07f9ac1.jpg",
+        "publishedAt": "2024-09-24T07:22:15.4493966Z",
+        "content": "The South African National Parks (SANParks), which manages Table Mountain and other national parks, said the hiker left her room at noon to hike up the mountain.\r\nHer friends called the police when t… [+1242 chars]"
+      }
+    ]
+  }
