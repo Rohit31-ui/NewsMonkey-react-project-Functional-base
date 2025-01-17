@@ -1,8 +1,9 @@
-# React + Vite
+# NewsMokey Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+NewsMokey is a dynamic news website that allows users to explore and read news articles across various domains such as sports, science, technology, business, and politics. The project leverages an online API to fetch real-time news updates and displays them in an organized and user-friendly manner. It is built using React and incorporates various React hooks for state management and functionality. Additionally, the website features a theme changer, enabling users to switch between light and dark modes for an enhanced reading experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+contact:-
+Name:-Rohit Lad
+BE(Information Technology) 2022-26
