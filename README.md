@@ -7,3 +7,7 @@ NewsMokey is a dynamic news website that allows users to explore and read news a
 contact:-
 Name:-Rohit Lad
 BE(Information Technology) 2022-26
+
+Email: [rohitlad014@gmail.com] (mailto:rohitlad014@gmail.com)
+
+LinkedIn: [Rohit Lad] (https://www.linkedin.com/in/rohit-lad-1550b4259/)
